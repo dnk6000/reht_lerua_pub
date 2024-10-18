@@ -1,0 +1,9 @@
+2024-09-18 00:46:02,025 - root - INFO - Application started
+2024-09-18 00:46:02,025 - root - INFO - Common log file: Log\common.log
+2024-09-18 00:46:02,025 - root - INFO - Operation: crawl
+2024-09-18 00:46:02,025 - root - INFO - Project cfg file: Config\lerua.cfg
+2024-09-18 00:46:02,026 - root - INFO - Result file: Log\result_lerua.csv
+2024-09-18 00:46:02,030 - root - INFO - Loaded successfully: cfg file Config\lerua.cfg
+2024-09-18 00:46:02,039 - root - INFO - Project log file: Log\lerua.log
+2024-09-18 00:46:02,039 - root - INFO - Project name: lerua
+2024-09-18 00:47:06,092 - root - INFO - Application finished successfully

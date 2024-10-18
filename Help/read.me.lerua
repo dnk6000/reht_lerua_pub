@@ -1,0 +1,18 @@
+Command line format:
+    lerua.exe <!operation> <!project cfg file> <!result filename>
+           [--cat <filename> --urls <filename> --url <...> --article <...> --articles <filename>]
+
+    "!" - required argument
+    <operation> can be ['check', 'crawl', 'crawlall']
+        check: check authorization and put categories into project log
+
+    --cat <file with categories>
+        this option set mode for crawling all groups and products in list of categories specified in the file
+        format of file: a text file with a category name in each line.
+                        if line begins with symbol '-' - it means forbidden category, it won't be crawl
+    --urls
+    --articles
+
+Example:
+    # operation for getting data for list of articles
+    lerua.exe crawl Config\lerua.cfg Log\result_lerua.csv --clearlog --articles Config\list_of_articles_lerua.txt

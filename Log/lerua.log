@@ -1,0 +1,16 @@
+2024-09-18 00:46:08,188 - lerua - INFO - New articul 8297137. Looking for url via search page.
+2024-09-18 00:46:16,862 - lerua - ERROR - Error during finding url for article 8297137: not found
+2024-09-18 00:46:16,962 - lerua - INFO - Start crawl: 85084867 Штукатурка цементная Vetonit TT30 light 25 кг: https://penza.lemanapro.ru/product/shtukaturka-cementnaya-vetonit-tt30-light-25-kg-85084867/
+2024-09-18 00:46:23,813 - lerua - INFO -     1 Parsed product: 85084867
+2024-09-18 00:46:23,814 - lerua - INFO - Start crawl: 85688583 Шпаклёвка полимерная финишная Vetonit LR Паста Бриллиант 18 кг: https://penza.lemanapro.ru/product/shpaklevka-polimernaya-finishnaya-vetonit-lr-pasta-brilliant-18-kg-85688583/
+2024-09-18 00:46:31,445 - lerua - INFO -     2 Parsed product: 85688583
+2024-09-18 00:46:31,445 - lerua - INFO - Start crawl: 15486664 Клей для камня и керамогранита Vetonit Ultra Fix усиленный эластичный 25 кг: https://penza.lemanapro.ru/product/kley-dlya-kamnya-i-keramogranita-vetonit-ultra-fix-usilennyy-elastichnyy-25-kg-15486664/
+2024-09-18 00:46:37,773 - lerua - INFO -     3 Parsed product: 15486664
+2024-09-18 00:46:37,774 - lerua - INFO - Start crawl: 18049507 Шпаклёвка полимерная финишная Vetonit LR+ 22 кг: https://penza.lemanapro.ru/product/shpaklevka-polimernaya-finishnaya-vetonit-lr-22-kg-18049507/
+2024-09-18 00:46:44,078 - lerua - INFO -     4 Parsed product: 18049507
+2024-09-18 00:46:44,079 - lerua - INFO - Start crawl: 15058563 Шпаклёвка полимерная суперфинишная Knauf Ротбанд Паста Профи 18 кг: https://penza.lemanapro.ru/product/shpaklevka-polimernaya-superfinishnaya-knauf-rotband-pasta-profi-18-kg-15058563/
+2024-09-18 00:46:50,438 - lerua - INFO -     5 Parsed product: 15058563
+2024-09-18 00:46:50,439 - lerua - INFO - Start crawl: 13922864 Шпаклёвка гипсовая финишная Старатели 20 кг: https://penza.lemanapro.ru/product/shpaklevka-gipsovaya-finishnaya-starateli-20-kg-13922864/
+2024-09-18 00:46:56,837 - lerua - INFO -     6 Parsed product: 13922864
+2024-09-18 00:46:56,837 - lerua - INFO - Start crawl: 15143311 Потолочная панель AP600A6 Tegular/Т-24 белая сталь: https://penza.lemanapro.ru/product/potolochnaya-panel-ap600a6-tegular-t-24-belaya-stal-v-korobke-36-sht-1296m2-15143311/
+2024-09-18 00:47:02,976 - lerua - INFO -     7 Parsed product: 15143311
